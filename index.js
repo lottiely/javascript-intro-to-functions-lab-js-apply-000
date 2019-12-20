@@ -1,0 +1,1 @@
+let shout = (string) => string.toUpperCase();
